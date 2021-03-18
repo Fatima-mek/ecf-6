@@ -1,0 +1,17 @@
+#titre{
+    font-weight: 900;
+}
+#slogan{
+    font-size:bolder;
+}
+
+.navbar{
+    /* background-color: black; */
+    font-size:larger;
+}
+#font{
+    background-image: url("assets/images/thaillande.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
